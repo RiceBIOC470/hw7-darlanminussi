@@ -1,4 +1,14 @@
 %HW7
+%GB comments
+1a 90 Almost enterily correct. 1 signifies the carrying capacity 
+1b 100
+1c 100
+1d 80 There is more to the graph. If you extend a, you will notice that the system continues to bifurcate which generates a growing number of fixed points. 
+2a 30 equation is not correct. This models activation and not a toggle switch. Use [V/(1+x(2)^4)-x(1); V/(1+x(1)^4)-x(2)];
+2b. 100 correctly generated plots, but the equations used are wrong. I will give full credit
+2c  100 same as 2b. 
+overall 86
+
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
